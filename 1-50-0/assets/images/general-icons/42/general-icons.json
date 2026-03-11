@@ -6312,6 +6312,30 @@
                 "y": 0.5
             }
         },
+        "hat/81": {
+            "frame": {
+                "x": 645,
+                "y": 1424,
+                "w": 72,
+                "h": 57
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 13,
+                "w": 72,
+                "h": 57
+            },
+            "sourceSize": {
+                "w": 80,
+                "h": 80
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
         "heal": {
             "frame": {
                 "x": 297,
